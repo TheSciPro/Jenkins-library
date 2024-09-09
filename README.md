@@ -11,7 +11,7 @@ This Jenkins Shared Library contains two functions:
 |   |__ jenkinsStatus.groovy
 ├── src
 └── README.md
-
+```
 
 ## Usage in a Jenkins Pipeline
 
