@@ -6,11 +6,11 @@ This Jenkins Shared Library contains two functions:
 
 
 (Root directory of the library)
-├── vars
-│   └── helloJenkins.groovy
-|   |__ jenkinsStatus.groovy
-├── src
-└── README.md
+-├── vars
+-│   └── helloJenkins.groovy
+-|   |__ jenkinsStatus.groovy
+-├── src
+-└── README.md
 
 
 ## Usage in a Jenkins Pipeline
